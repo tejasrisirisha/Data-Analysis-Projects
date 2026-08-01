@@ -1,2 +1,28 @@
-# Data-Analysis-Projects
-A collection of Python Data Analysis and Machine Learning projects including EDA, data preprocessing, visualization, and predictive modeling using Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
+# Data Analysis Projects
+
+This repository contains five data analysis projects completed using Python, Pandas, NumPy, and Matplotlib.
+
+## Projects
+
+1. Student Performance Analysis
+2. Titanic Data Cleaning & Passenger Analysis
+3. Wine Quality Exploratory Data Analysis
+4. Diamond Price Analysis
+5. Retail Sales Analysis Dashboard
+
+Each project includes:
+- Google Colab Notebook
+- Dataset
+- README.md
+- EDA Summary Report
+- Output Screenshots
+- Instructions
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+## Author
+K. Tejasri Sirisha
