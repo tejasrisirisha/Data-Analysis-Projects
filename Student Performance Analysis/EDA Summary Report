@@ -1,0 +1,48 @@
+# Exploratory Data Analysis (EDA) Summary Report
+
+## Project: Student Performance Analysis
+
+### Objective
+
+The objective of this project is to analyze student academic performance and identify the factors that influence exam scores using Exploratory Data Analysis (EDA).
+
+### Dataset Overview
+
+* Loaded the Student Performance dataset using Pandas.
+* Explored the dataset using `head()`, `info()`, and `describe()`.
+* Verified the dataset structure, data types, and statistical information.
+
+### Data Cleaning
+
+* Checked for missing values and handled them appropriately.
+* Identified and removed duplicate records.
+* Detected outliers using the IQR (Interquartile Range) method and treated them to improve data quality.
+
+### Statistical Analysis
+
+* Calculated Mean, Median, Mode, Variance, and Standard Deviation for numerical features.
+* Summarized the distribution and variation of student performance data.
+
+### Correlation Analysis
+
+* Analyzed the relationships between numerical variables.
+* Found that students with higher G1 and G2 scores generally achieved higher G3 (final) scores, indicating a positive correlation.
+
+### Data Visualization
+
+The following visualizations were created:
+
+* **Bar Chart:** Compared the average marks of G1, G2, and G3.
+* **Line Chart:** Displayed the variation of G3 scores across students.
+* **Histogram:** Showed the distribution of final exam (G3) scores.
+* **Scatter Plot:** Illustrated the relationship between G1 and G3 scores.
+
+### Key Insights
+
+* Student performance in G1 and G2 strongly influences the final score (G3).
+* Most students scored within the average range, with only a few outliers.
+* The dataset was successfully cleaned and prepared for further statistical analysis and machine learning applications.
+
+### Conclusion
+
+The Student Performance dataset was successfully explored, cleaned, and analyzed. The visualizations and statistical analysis provided valuable insights into student academic performance, resulting in a clean and reliable dataset suitable for future predictive modeling.
