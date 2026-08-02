@@ -1,2 +1,2 @@
 
-This folder contains screenshots of the Retail Sales Analysis project.
+This folder contains screenshots of the Student Performance Analysis project.
