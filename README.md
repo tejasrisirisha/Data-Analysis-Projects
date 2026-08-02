@@ -1,6 +1,6 @@
 # Data Analysis Projects
 
-This repository contains five data analysis projects completed using Python, Pandas, NumPy, and Matplotlib.
+This repository contains data analysis projects completed using Python, Pandas, NumPy, and Matplotlib.
 
 ## Projects
 
@@ -9,6 +9,7 @@ This repository contains five data analysis projects completed using Python, Pan
 3. Wine Quality Exploratory Data Analysis
 4. Diamond Price Analysis
 5. Retail Sales Analysis Dashboard
+6. Customer Purchase Prediction
 
 Each project includes:
 - Google Colab Notebook
