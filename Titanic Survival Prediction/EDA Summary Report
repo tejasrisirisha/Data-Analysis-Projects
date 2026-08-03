@@ -1,0 +1,21 @@
+Titanic Survival Prediction – EDA Summary Report
+
+Objective
+The objective of this project was to analyze the Titanic dataset, preprocess the data, and predict passenger survival using machine learning models.
+
+Data Preprocessing
+Loaded the dataset and identified numerical and categorical columns.
+Handled missing values in Age, Cabin, and Embarked.
+Removed duplicate records and treated outliers using the IQR method.
+Encoded categorical variables and applied StandardScaler to numerical features.
+Exploratory Data Analysis
+Analyzed the Survived column to understand the distribution of survivors and non-survivors.
+Explored the relationship between Passenger Class, Gender, and Survival.
+Visualized the data using histograms, line charts, scatter plots, and a correlation heatmap.
+Model Building
+
+Built and evaluated Logistic Regression and Decision Tree models using an 80:20 train-test split.
+
+Conclusion
+
+The analysis showed that gender, passenger class, age, and fare influenced passenger survival. Both models performed well, and the model with the higher accuracy was selected as the better predictor.
