@@ -1,0 +1,14 @@
+# EDA Summary Report – Diamond Price Analysis
+
+## Observations
+
+* The dataset was cleaned by handling missing values, removing duplicate records, and treating outliers.
+* Most diamonds are concentrated in the lower and medium price ranges, while high-priced diamonds are comparatively fewer.
+* Diamond price increases significantly with carat weight, making it one of the strongest influencing factors.
+* Features such as cut, color, and clarity also affect price, though their impact varies across categories.
+* Correlation analysis shows a strong positive relationship between carat and price, while other numerical features have weaker correlations.
+* Visualizations helped identify data distribution, feature relationships, and potential outliers effectively.
+
+## Conclusion
+
+The analysis indicates that **carat** is the primary factor influencing diamond prices, with **cut, color, and clarity** also contributing to price variation. Data cleaning and visualization improved the quality of the analysis and provided valuable business insights for understanding pricing patterns and supporting informed decision-making.
