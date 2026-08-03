@@ -18,7 +18,7 @@ Each project includes:
 - README.md
 - EDA Summary Report
 - Output Screenshots
-- Instructions
+
 
 ## Tools Used
 - Python
