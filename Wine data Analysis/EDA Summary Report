@@ -1,0 +1,49 @@
+# EDA Summary Report – Wine Quality Exploratory Data Analysis
+
+## Dataset Overview
+
+The Wine Quality dataset contains various physicochemical properties of wine, such as acidity, alcohol content, pH, sulphates, and density, along with a quality rating. The objective of this analysis was to explore the dataset and identify the factors that influence wine quality.
+
+## Data Exploration
+
+* The dataset was loaded and inspected using Pandas.
+* Data structure, column names, and summary statistics were examined.
+* Missing values and duplicate records were checked and handled where necessary.
+
+## Descriptive Statistics
+
+Descriptive statistics, including mean, median, mode, variance, and standard deviation, were calculated to understand the distribution and spread of numerical features.
+
+## Correlation Analysis
+
+A correlation matrix was generated to identify relationships between variables. Features with stronger positive or negative correlations with wine quality were identified for further analysis.
+
+## Outlier Detection
+
+Outliers were detected using box plots. Extreme values were identified to better understand the variability in the dataset.
+
+## Filtering and Sorting
+
+The dataset was filtered based on wine quality and alcohol content, and sorted to identify wines with the highest quality and alcohol levels.
+
+## Visualizations
+
+The following visualizations were created:
+
+* Histogram to examine the distribution of wine quality.
+* Bar chart to compare the frequency of quality ratings.
+* Scatter plot to analyze the relationship between alcohol content and wine quality.
+* Line chart to observe average alcohol content across different quality levels.
+* Box plot to detect outliers.
+
+## Observations
+
+* Most wine samples fall within the medium quality range.
+* Alcohol content generally shows a positive relationship with wine quality.
+* Some acidity-related features have a moderate influence on quality.
+* A few features exhibit strong positive or negative correlations with the quality score.
+* Outliers are present in several numerical attributes, indicating variations in wine characteristics.
+
+## Conclusion
+
+The exploratory analysis provided valuable insights into the Wine Quality dataset. Correlation analysis and visualizations revealed that alcohol content and certain chemical properties are associated with wine quality. The project demonstrates the effective use of Python, Pandas, NumPy, and Matplotlib for data exploration, statistical analysis, and visualization, helping to understand the key factors affecting wine quality.
