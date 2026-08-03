@@ -1,0 +1,38 @@
+# EDA Summary Report – Titanic Data Cleaning & Passenger Analysis
+
+## Dataset Overview
+
+The Titanic dataset contains passenger information such as age, gender, passenger class, fare, and survival status. The analysis focused on cleaning the data and identifying factors related to passenger survival.
+
+## Data Cleaning
+
+* Missing values in **Age**, **Embarked**, and **Cabin** were handled.
+* Duplicate records were removed.
+* Outliers in the **Age** column were identified and treated using the IQR method.
+
+## Exploratory Data Analysis
+
+* Basic statistics such as mean, median, mode, variance, and standard deviation were calculated.
+* Passenger data was filtered based on age, gender, and class.
+* Grouping operations were performed using `groupby()` to compare passenger categories.
+* Survival statistics were analyzed to understand survival patterns.
+
+## Visualizations
+
+The following charts were created to support the analysis:
+
+* Histogram for age distribution
+* Bar chart for passenger class distribution
+* Scatter plot for Age vs Fare
+* Line chart for average fare by passenger class
+
+## Key Findings
+
+* Most passengers belonged to the third passenger class.
+* Female passengers showed a higher survival rate than male passengers.
+* First-class passengers had better survival rates than lower classes.
+* Data cleaning improved the overall quality and reliability of the analysis.
+
+## Conclusion
+
+The Titanic dataset was successfully cleaned and analyzed using Python. The project demonstrates essential data cleaning, filtering, grouping, statistical analysis, and visualization techniques, providing meaningful insights into passenger survival trends.
