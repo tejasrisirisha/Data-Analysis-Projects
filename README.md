@@ -12,6 +12,7 @@ This repository contains data analysis projects completed using Python, Pandas, 
 6. Customer Purchase Prediction
 7. Titanic Survival Prediction
 8. House Price Prediction
+9. AI Developer Mini Project (Diabetes Prediction)
 
 Each project includes:
 - Google Colab Notebook
