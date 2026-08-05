@@ -11,6 +11,7 @@ This repository contains data analysis projects completed using Python, Pandas, 
 5. Retail Sales Analysis Dashboard
 6. Customer Purchase Prediction
 7. Titanic Survival Prediction
+8. House Price Prediction
 
 Each project includes:
 - Google Colab Notebook
