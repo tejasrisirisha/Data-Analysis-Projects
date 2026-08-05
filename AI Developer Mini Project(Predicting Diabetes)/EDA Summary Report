@@ -1,0 +1,7 @@
+The **Pima Indians Diabetes Dataset** was used to develop a machine learning model capable of predicting whether a patient is **Diabetic** or **Not Diabetic** based on medical attributes such as pregnancies, glucose level, blood pressure, skin thickness, insulin, BMI, diabetes pedigree function, and age.
+
+The dataset was loaded and prepared for analysis by removing duplicate records to improve data quality. The **Outcome** column was selected as the target variable, while the remaining medical attributes were used as input features for model training. The cleaned dataset was then divided into training and testing sets to build predictive models.
+
+Three machine learning algorithms—**Logistic Regression**, **K-Nearest Neighbors (KNN)**, and **Decision Tree**—were trained and evaluated using performance metrics including **Accuracy, Precision, Recall, F1-Score, and Confusion Matrix**. The best-performing model was saved using **Joblib** and later used to predict whether a patient is **Diabetic** or **Not Diabetic** based on user-provided input values.
+
+This project demonstrates a complete end-to-end machine learning workflow, from data preparation and model training to evaluation, model saving, and real-time prediction.
