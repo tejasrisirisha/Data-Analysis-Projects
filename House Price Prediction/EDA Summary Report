@@ -1,0 +1,15 @@
+House Price Prediction – EDA Summary
+
+Dataset Overview:
+The Housing Prices dataset was analyzed to understand the factors influencing house prices and prepare the data for machine learning.
+
+Key Observations:
+Statistical measures were calculated to summarize the numerical features.
+Skewness analysis showed that some features have non-normal distributions.
+Outliers were identified using boxplots.
+Correlation analysis revealed that Area, Bathrooms, Stories, Parking, and Bedrooms are the most influential features affecting house prices.
+Multiple Linear Regression achieved better performance than Simple Linear Regression based on RMSE and R² Score.
+
+Conclusion:
+The dataset was successfully analyzed and prepared for prediction. Correlation analysis helped identify the most important features, and the Multiple Linear Regression model provided more accurate house price predictions than the Simple Linear Regression model. The trained model was saved for future predictions.
+These are concise, professional, and match the style expected for college assignment submissions.
