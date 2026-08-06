@@ -1,14 +1,14 @@
-# 💎 Diamond Price Analysis
+#  Diamond Price Analysis
 
-## 📌 Objective
+##  Objective
 
 Analyze the factors that influence diamond prices using Exploratory Data Analysis (EDA). The project focuses on data cleaning, statistical analysis, outlier detection, visualization, and extracting meaningful business insights.
 
-## 📂 Dataset
+##  Dataset
 
 * Diamonds Dataset (CSV)
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 
 * Python
 * Pandas
@@ -16,7 +16,7 @@ Analyze the factors that influence diamond prices using Exploratory Data Analysi
 * Matplotlib
 * Seaborn
 
-## 📊 Project Tasks
+##  Project Tasks
 
 * Load and explore the dataset
 * Clean the data
@@ -28,7 +28,7 @@ Analyze the factors that influence diamond prices using Exploratory Data Analysi
 * Create visualizations
 * Generate business insights
 
-## 📈 Visualizations
+##  Visualizations
 
 * Histogram
 * Scatter Plot
