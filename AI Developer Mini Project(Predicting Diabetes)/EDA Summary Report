@@ -1,1 +1,9 @@
 This project predicts whether a patient is Diabetic or Not Diabetic using the Pima Indians Diabetes Dataset. 
+The resualbe functions used in this project are :
+load_data()
+clean_data()
+split_data()
+train_model()
+predict()
+save_model()
+Using LogisticRegression , KNN , Decision Tree models the best model is saved and used to predict whether the patient is Diabetic or Not.
