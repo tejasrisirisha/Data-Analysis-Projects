@@ -1,16 +1,16 @@
 # Titanic Data Cleaning & Passenger Analysis
 
-## 📌 Objective
+##  Objective
 
 Clean the Titanic dataset and analyze passenger survival trends using Python.
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 * Python
 * Pandas
 * Matplotlib
 
-## 📊 Tasks Performed
+##  Tasks Performed
 
 * Loaded the Titanic dataset
 * Handled missing values
@@ -22,13 +22,13 @@ Clean the Titanic dataset and analyze passenger survival trends using Python.
 * Created visualizations
 * Prepared an EDA summary report
 
-## 📈 Visualizations
+##  Visualizations
 
 * Histogram
 * Bar Chart
 * Scatter Plot
 * Line Chart
 
-## 🎯 Outcome
+##  Outcome
 
 Successfully cleaned the dataset, explored passenger characteristics, analyzed survival patterns, and visualized key insights using Exploratory Data Analysis (EDA).
