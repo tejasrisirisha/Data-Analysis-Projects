@@ -2,7 +2,7 @@
 
 ## Objective
 
-Build a machine learning model to predict whether a customer will churn based on demographic and service-related features.
+Build a machine learning model to predict whether a customer will churn 
 
 ## Dataset
 
