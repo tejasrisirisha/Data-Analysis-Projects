@@ -1,0 +1,17 @@
+# EDA Summary Report
+
+## Overview
+
+The Telco Customer Churn dataset was explored to understand customer characteristics and factors related to churn.
+
+## Key Observations
+
+* The dataset contained no missing values.
+* No duplicate records were found.
+* Categorical features were encoded for model training.
+* Numerical features showed different value ranges, so feature scaling was applied.
+* Customer-related attributes such as contract type, tenure, monthly charges, and internet services showed noticeable relationships with churn.
+
+## Conclusion
+
+The dataset was clean and suitable for machine learning. After preprocessing and feature engineering, multiple classification models were trained and compared to identify the best-performing model for customer churn prediction.
