@@ -1,15 +1,15 @@
 # Titanic Survival Prediction
 
-## 📌 Objective
+##  Objective
 Predict passenger survival using machine learning.
 
-## 📂 Dataset
+##  Dataset
 Titanic Dataset (CSV)
 
-## 🛠️ Tools
+##  Tools
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
-## 📋 Workflow
+##  Workflow
 - Data Cleaning
 - Missing Value Handling
 - Outlier Detection (IQR)
@@ -21,5 +21,5 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - Decision Tree
 - Model Comparison
 
-## 🎯 Result
+##  Result
 Built and compared Logistic Regression and Decision Tree models to predict passenger survival using accuracy score.
